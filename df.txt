@@ -1,0 +1,943 @@
+"ID"	"time"	"AgeD"	"AgeR"	"Dontype"	"Source"	"con"	"bcell"	"memory"
+"1"	"1"	0.64	2.22	4	"Identical related"	"Bone Marrow"	"MAC"	1415	NA
+"2"	"1"	1.5	2.22	4	"Identical related"	"Bone Marrow"	"MAC"	570	51.3
+"3"	"2"	0.81	10.38	3.6	"Identical related"	"Bone Marrow"	"MAC"	515	NA
+"4"	"2"	1.86	10.38	3.6	"Identical related"	"Bone Marrow"	"MAC"	886	177.2
+"5"	"3"	0.55	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	246	NA
+"6"	"3"	0.77	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	536	NA
+"7"	"3"	0.98	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	336	16.8
+"8"	"3"	1.28	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	620	31
+"9"	"3"	1.74	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	845	135.2
+"10"	"3"	1.97	9.48	7.8	"Identical related"	"Bone Marrow"	"MAC"	500	55
+"11"	"4"	0.56	24.54	14.8	"Matched unrelated"	"Bone Marrow"	"MAC"	213	NA
+"12"	"4"	0.73	24.54	14.8	"Matched unrelated"	"Bone Marrow"	"MAC"	189	NA
+"13"	"4"	1.29	24.54	14.8	"Matched unrelated"	"Bone Marrow"	"MAC"	236	16.52
+"14"	"4"	1.77	24.54	14.8	"Matched unrelated"	"Bone Marrow"	"MAC"	253	7.59
+"15"	"5"	0.52	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	164	NA
+"16"	"5"	0.6	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	150	4.5
+"17"	"5"	0.69	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	128	2.56
+"18"	"5"	0.75	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	205	4.1
+"19"	"5"	0.92	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	222	8.88
+"20"	"5"	1	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	266	10.64
+"21"	"5"	1.12	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	226	15.82
+"22"	"5"	1.33	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	279	11.16
+"23"	"5"	1.58	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	388	19.4
+"24"	"5"	1.75	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	481	33.67
+"25"	"5"	1.9	22.69	13.2	"Matched unrelated"	"Bone Marrow"	"MAC"	428	17.12
+"26"	"6"	0.52	0	7.6	"Matched unrelated"	"Cord Blood"	"RIC"	592	NA
+"27"	"6"	0.6	0	7.6	"Matched unrelated"	"Cord Blood"	"RIC"	1396	13.96
+"28"	"6"	0.78	0	7.6	"Matched unrelated"	"Cord Blood"	"RIC"	1624	48.72
+"29"	"6"	1.63	0	7.6	"Matched unrelated"	"Cord Blood"	"RIC"	1012	30.36
+"30"	"7"	0.58	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	509	20.36
+"31"	"7"	0.64	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	705	28.2
+"32"	"7"	0.68	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	372	22.32
+"33"	"7"	0.95	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	583	NA
+"34"	"7"	1.06	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	40	2.8
+"35"	"7"	1.21	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	1145	45.8
+"36"	"7"	1.26	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	790	47.4
+"37"	"7"	1.38	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	1525	45.75
+"38"	"7"	1.69	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	1617	48.51
+"39"	"7"	1.77	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	1564	62.56
+"40"	"7"	1.9	34.85	0.4	"Haplo-identical"	"Bone Marrow"	"MAC"	1632	81.6
+"41"	"8"	0.5	42.05	16.4	"Matched unrelated"	"Bone Marrow"	"RIC"	241	7.23
+"42"	"8"	0.56	42.05	16.4	"Matched unrelated"	"Bone Marrow"	"RIC"	260	5.2
+"43"	"8"	0.72	42.05	16.4	"Matched unrelated"	"Bone Marrow"	"RIC"	174	13.92
+"44"	"8"	0.94	42.05	16.4	"Matched unrelated"	"Bone Marrow"	"RIC"	472	14.16
+"45"	"8"	1.43	42.05	16.4	"Matched unrelated"	"Bone Marrow"	"RIC"	440	17.6
+"46"	"9"	0.52	18.02	15.9	"Identical related"	"Bone Marrow"	"RIC"	463	32.41
+"47"	"9"	0.68	18.02	15.9	"Identical related"	"Bone Marrow"	"RIC"	500	35
+"48"	"9"	0.77	18.02	15.9	"Identical related"	"Bone Marrow"	"RIC"	737	14.74
+"49"	"9"	0.85	18.02	15.9	"Identical related"	"Bone Marrow"	"RIC"	354	21.24
+"50"	"9"	1.61	18.02	15.9	"Identical related"	"Bone Marrow"	"RIC"	631	37.86
+"56"	"10"	1.15	33.97	12	"Matched unrelated"	"Bone Marrow"	"RIC"	10	0.2
+"57"	"10"	1.82	33.97	12	"Matched unrelated"	"Bone Marrow"	"RIC"	428	29.96
+"58"	"11"	0.58	23.27	4.8	"Matched unrelated"	"Bone Marrow"	"RIC"	114	7.98
+"59"	"11"	0.96	23.27	4.8	"Matched unrelated"	"Bone Marrow"	"RIC"	220	6.6
+"60"	"11"	1.16	23.27	4.8	"Matched unrelated"	"Bone Marrow"	"RIC"	177	8.85
+"61"	"11"	1.38	23.27	4.8	"Matched unrelated"	"Bone Marrow"	"RIC"	277	24.93
+"62"	"12"	0.58	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	676	20.28
+"63"	"12"	0.92	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	562	11.24
+"64"	"12"	1.13	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1717	17.17
+"65"	"12"	1.24	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1285	NA
+"66"	"12"	1.7	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1913	76.52
+"67"	"12"	1.97	33.28	2.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1983	79.32
+"68"	"13"	0.63	22.54	16.9	"Matched unrelated"	"Bone Marrow"	"RIC"	639	6.39
+"69"	"13"	0.74	22.54	16.9	"Matched unrelated"	"Bone Marrow"	"RIC"	270	5.4
+"70"	"13"	0.99	22.54	16.9	"Matched unrelated"	"Bone Marrow"	"RIC"	260	7.8
+"71"	"14"	0.52	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	118	5.9
+"72"	"14"	0.6	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	59	4.72
+"73"	"14"	0.64	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	80	4
+"74"	"14"	0.73	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	242	16.94
+"75"	"14"	0.77	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	211	14.77
+"76"	"14"	0.85	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	204	8.16
+"77"	"14"	0.95	13.43	15.7	"Identical related"	"Bone Marrow"	"RIC"	284	19.88
+"78"	"15"	0.52	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	47	2.82
+"79"	"15"	0.56	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	287	20.09
+"80"	"15"	0.62	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	157	12.56
+"81"	"15"	0.7	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	43	1.72
+"82"	"15"	0.79	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	155	7.75
+"83"	"15"	0.82	24.65	13.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	96	4.8
+"84"	"16"	0.74	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	505	10.1
+"85"	"16"	0.93	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	272	8.16
+"86"	"16"	1.05	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	511	35.77
+"87"	"16"	1.24	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	452	22.6
+"88"	"16"	1.34	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	734	44.04
+"89"	"16"	1.43	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	675	40.5
+"90"	"16"	1.51	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	1244	111.96
+"91"	"16"	1.7	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	554	60.94
+"92"	"16"	1.99	34.67	1.8	"Matched unrelated"	"Bone Marrow"	"MAC"	746	59.68
+"93"	"17"	0.75	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	416	16.64
+"94"	"17"	0.86	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	359	14.36
+"95"	"17"	1	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	472	42.48
+"96"	"17"	1.13	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	341	NA
+"97"	"17"	1.28	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	367	29.36
+"98"	"17"	1.39	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	542	48.78
+"99"	"17"	1.48	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	549	49.41
+"100"	"17"	1.55	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	495	NA
+"101"	"17"	1.67	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	513	46.17
+"102"	"17"	1.84	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	623	NA
+"103"	"17"	1.99	1.99	5.7	"Identical related"	"Bone Marrow"	"MAC"	419	NA
+"104"	"18"	0.52	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1781	249.34
+"105"	"18"	0.58	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1912	95.6
+"106"	"18"	0.65	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1989	79.56
+"107"	"18"	0.72	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1989	59.67
+"108"	"18"	0.81	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	2455	73.65
+"109"	"18"	0.89	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1904	76.16
+"110"	"18"	0.95	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1781	213.72
+"111"	"18"	1.73	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	1394	139.4
+"112"	"19"	0.63	22.88	15.6	"Matched unrelated"	"Bone Marrow"	"MAC"	388	15.52
+"113"	"19"	0.95	22.88	15.6	"Matched unrelated"	"Bone Marrow"	"MAC"	282	42.3
+"114"	"19"	1.3	22.88	15.6	"Matched unrelated"	"Bone Marrow"	"MAC"	399	51.87
+"115"	"19"	1.82	22.88	15.6	"Matched unrelated"	"Bone Marrow"	"MAC"	508	60.96
+"116"	"20"	0.56	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	988	9.88
+"117"	"20"	0.66	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1003	20.06
+"118"	"20"	0.75	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1003	20.06
+"119"	"20"	0.83	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1431	42.93
+"120"	"20"	0.91	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1299	51.96
+"121"	"20"	0.98	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	456	NA
+"122"	"20"	1	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1229	NA
+"123"	"20"	1.12	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1127	NA
+"124"	"20"	1.3	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1233	NA
+"125"	"20"	1.54	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1609	NA
+"126"	"20"	1.79	5.25	7.8	"Identical related"	"Bone Marrow"	"MAC"	1089	98.01
+"127"	"21"	0.51	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	1999	NA
+"128"	"21"	0.52	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	1658	16.58
+"129"	"21"	0.64	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	1082	NA
+"130"	"21"	0.68	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	2334	NA
+"131"	"21"	0.69	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	1567	595.46
+"132"	"21"	0.75	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	4506	NA
+"133"	"21"	0.89	0	1.6	"Matched unrelated"	"Cord Blood"	"MAC"	2439	NA
+"134"	"22"	0.53	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	563	33.78
+"135"	"22"	0.6	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	719	21.57
+"136"	"22"	0.67	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	509	20.36
+"137"	"22"	0.73	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	703	161.69
+"138"	"22"	0.98	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	430	30.1
+"139"	"22"	1.09	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	1120	22.4
+"140"	"22"	1.17	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	774	NA
+"141"	"22"	1.28	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	1203	96.24
+"142"	"22"	1.53	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	1187	NA
+"143"	"22"	1.91	29.14	2.8	"Matched unrelated"	"Bone Marrow"	"MAC"	546	NA
+"144"	"23"	0.55	23.17	10.8	"Matched unrelated"	"Bone Marrow"	"RIC"	255	7.65
+"145"	"23"	0.85	23.17	10.8	"Matched unrelated"	"Bone Marrow"	"RIC"	690	6.9
+"146"	"23"	1.08	23.17	10.8	"Matched unrelated"	"Bone Marrow"	"RIC"	417	8.34
+"147"	"24"	0.58	13.25	15.9	"Identical related"	"Bone Marrow"	"MAC"	290	5.8
+"148"	"24"	0.71	13.25	15.9	"Identical related"	"Bone Marrow"	"MAC"	347	13.88
+"149"	"24"	0.98	13.25	15.9	"Identical related"	"Bone Marrow"	"MAC"	700	28
+"150"	"24"	1.27	13.25	15.9	"Identical related"	"Bone Marrow"	"MAC"	542	32.52
+"151"	"24"	1.63	13.25	15.9	"Identical related"	"Bone Marrow"	"MAC"	340	27.2
+"152"	"25"	0.51	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	211	18.99
+"153"	"25"	0.54	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	281	19.67
+"154"	"25"	0.58	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	216	23.76
+"155"	"25"	0.62	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	292	35.04
+"156"	"25"	0.66	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	419	NA
+"157"	"25"	0.68	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	339	44.07
+"158"	"25"	0.75	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	662	79.44
+"159"	"25"	0.84	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	657	85.41
+"160"	"25"	0.93	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	659	72.49
+"161"	"25"	1.17	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	960	86.4
+"162"	"25"	1.24	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	557	55.7
+"163"	"25"	1.53	35.69	9.3	"Haplo-identical"	"Bone Marrow"	"RIC"	590	NA
+"164"	"26"	0.55	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	561	16.83
+"165"	"26"	0.61	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	361	18.05
+"166"	"26"	0.71	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	836	33.44
+"167"	"26"	0.73	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	845	33.8
+"168"	"26"	0.8	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	669	33.45
+"169"	"26"	0.9	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	376	22.56
+"170"	"26"	0.96	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	212	16.96
+"171"	"26"	1.05	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	242	4.84
+"172"	"26"	1.17	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	295	11.8
+"173"	"26"	1.38	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	397	7.94
+"174"	"26"	1.63	17.04	14	"Identical related"	"Bone Marrow"	"MAC"	621	18.63
+"175"	"27"	0.56	0	1.8	"Identical related"	"Cord Blood"	"MAC"	1647	NA
+"176"	"27"	0.71	0	1.8	"Identical related"	"Cord Blood"	"MAC"	1758	87.9
+"177"	"27"	0.95	0	1.8	"Identical related"	"Cord Blood"	"MAC"	1608	144.72
+"178"	"27"	1.25	0	1.8	"Identical related"	"Cord Blood"	"MAC"	903	81.27
+"179"	"28"	0.51	17.21	14	"Identical related"	"Bone Marrow"	"MAC"	205	12.3
+"180"	"28"	0.72	17.21	14	"Identical related"	"Bone Marrow"	"MAC"	344	27.52
+"181"	"28"	1	17.21	14	"Identical related"	"Bone Marrow"	"MAC"	449	44.9
+"182"	"28"	1.44	17.21	14	"Identical related"	"Bone Marrow"	"MAC"	451	45.1
+"183"	"29"	0.56	15.2	13.3	"Identical related"	"Bone Marrow"	"MAC"	1220	36.6
+"184"	"29"	0.66	15.2	13.3	"Identical related"	"Bone Marrow"	"MAC"	1403	56.12
+"185"	"29"	0.9	15.2	13.3	"Identical related"	"Bone Marrow"	"MAC"	1215	72.9
+"186"	"30"	0.54	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	165	1.65
+"187"	"30"	0.58	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	123	1.23
+"188"	"30"	0.62	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	138	1.38
+"189"	"30"	0.66	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	247	7.41
+"190"	"30"	0.72	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	239	7.17
+"191"	"30"	0.81	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	155	1.55
+"192"	"30"	0.84	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	179	NA
+"193"	"30"	0.89	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	909	NA
+"194"	"30"	1	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	117	NA
+"195"	"30"	1.1	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	124	NA
+"196"	"30"	1.25	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	196	NA
+"197"	"30"	1.44	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	112	1.12
+"198"	"30"	1.52	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	133	6.65
+"199"	"30"	1.83	39.13	3.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	128	8.96
+"200"	"31"	0.57	19.69	15.9	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	382	NA
+"201"	"31"	0.65	19.69	15.9	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	344	NA
+"202"	"31"	0.81	19.69	15.9	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	448	13.44
+"203"	"31"	1	19.69	15.9	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	536	16.08
+"204"	"32"	0.63	25.97	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	267	5.34
+"205"	"32"	0.76	25.97	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	340	NA
+"206"	"32"	0.86	25.97	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	469	9.38
+"207"	"32"	1.03	25.97	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	341	NA
+"208"	"33"	0.56	18.94	16.7	"Identical related"	"Bone Marrow"	"MAC"	252	7.56
+"209"	"33"	0.81	18.94	16.7	"Identical related"	"Bone Marrow"	"MAC"	519	NA
+"210"	"33"	0.96	18.94	16.7	"Identical related"	"Bone Marrow"	"MAC"	479	23.95
+"211"	"33"	1.06	18.94	16.7	"Identical related"	"Bone Marrow"	"MAC"	393	19.65
+"212"	"33"	1.42	18.94	16.7	"Identical related"	"Bone Marrow"	"MAC"	680	20.4
+"213"	"34"	0.52	10.05	12.9	"Identical related"	"Bone Marrow"	"MAC"	484	NA
+"214"	"34"	0.59	10.05	12.9	"Identical related"	"Bone Marrow"	"MAC"	528	21.12
+"215"	"34"	0.75	10.05	12.9	"Identical related"	"Bone Marrow"	"MAC"	521	NA
+"216"	"34"	0.94	10.05	12.9	"Identical related"	"Bone Marrow"	"MAC"	775	38.75
+"217"	"35"	0.52	3.39	11	"Identical related"	"Bone Marrow"	"MAC"	672	26.88
+"218"	"35"	0.75	3.39	11	"Identical related"	"Bone Marrow"	"MAC"	703	NA
+"219"	"35"	0.98	3.39	11	"Identical related"	"Bone Marrow"	"MAC"	466	9.32
+"220"	"35"	1.97	3.39	11	"Identical related"	"Bone Marrow"	"MAC"	758	45.48
+"221"	"36"	0.52	44.82	9	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	19	NA
+"222"	"36"	0.54	44.82	9	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	28	NA
+"223"	"36"	0.58	44.82	9	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	15	1.95
+"224"	"37"	0.53	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	163	NA
+"225"	"37"	0.65	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	205	6.15
+"226"	"37"	0.73	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	124	3.72
+"227"	"37"	0.84	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	342	NA
+"228"	"37"	0.92	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	173	5.19
+"229"	"37"	0.96	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	158	NA
+"230"	"37"	1.14	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	204	NA
+"231"	"37"	1.32	50.49	4.9	"Matched unrelated"	"Bone Marrow"	"MAC"	277	8.31
+"232"	"38"	0.55	22.68	2.2	"Matched unrelated"	"Bone Marrow"	"MAC"	191	5.73
+"233"	"39"	0.54	14.62	6.8	"Identical related"	"Bone Marrow"	"MAC"	429	12.87
+"234"	"39"	0.69	14.62	6.8	"Identical related"	"Bone Marrow"	"MAC"	561	28.05
+"235"	"39"	0.75	14.62	6.8	"Identical related"	"Bone Marrow"	"MAC"	585	NA
+"236"	"39"	1.14	14.62	6.8	"Identical related"	"Bone Marrow"	"MAC"	268	21.44
+"237"	"40"	0.68	47.46	3.1	"Matched unrelated"	"Bone Marrow"	"RIC"	86	NA
+"238"	"40"	0.89	47.46	3.1	"Matched unrelated"	"Bone Marrow"	"RIC"	200	NA
+"239"	"40"	1.17	47.46	3.1	"Matched unrelated"	"Bone Marrow"	"RIC"	207	8.28
+"240"	"41"	0.51	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	593	23.72
+"241"	"41"	0.57	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	558	NA
+"242"	"41"	0.88	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	705	35.25
+"243"	"41"	0.98	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	778	54.46
+"244"	"41"	1.52	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	759	75.9
+"245"	"41"	1.83	11.52	9.6	"Identical related"	"Bone Marrow"	"MAC"	750	82.5
+"246"	"42"	0.53	0	8.1	"Identical related"	"Cord Blood"	"MAC"	340	23.8
+"247"	"42"	0.62	0	8.1	"Identical related"	"Cord Blood"	"MAC"	261	33.93
+"248"	"42"	1.04	0	8.1	"Identical related"	"Cord Blood"	"MAC"	1196	NA
+"249"	"42"	1.35	0	8.1	"Identical related"	"Cord Blood"	"MAC"	1288	NA
+"250"	"43"	0.83	18.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	321	NA
+"251"	"43"	1	18.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	548	10.96
+"252"	"43"	2	18.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	522	20.88
+"253"	"44"	0.57	21.15	16.6	"Matched unrelated"	"Bone Marrow"	"MAC"	141	2.82
+"254"	"44"	0.65	21.15	16.6	"Matched unrelated"	"Bone Marrow"	"MAC"	97	1.94
+"255"	"44"	0.76	21.15	16.6	"Matched unrelated"	"Bone Marrow"	"MAC"	44	4.4
+"256"	"44"	0.89	21.15	16.6	"Matched unrelated"	"Bone Marrow"	"MAC"	177	1.77
+"257"	"44"	1.06	21.15	16.6	"Matched unrelated"	"Bone Marrow"	"MAC"	180	7.2
+"258"	"45"	0.52	29.46	2.1	"Matched unrelated"	"Bone Marrow"	"MAC"	529	10.58
+"259"	"45"	0.71	29.46	2.1	"Matched unrelated"	"Bone Marrow"	"MAC"	910	18.2
+"260"	"45"	0.88	29.46	2.1	"Matched unrelated"	"Bone Marrow"	"MAC"	1156	57.8
+"261"	"46"	0.56	29.2	5.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	865	NA
+"262"	"46"	0.92	29.2	5.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	815	NA
+"263"	"46"	1.03	29.2	5.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	732	14.64
+"264"	"46"	1.8	29.2	5.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	775	31
+"265"	"47"	0.53	25.26	13.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	434	NA
+"266"	"47"	0.94	25.26	13.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	443	8.86
+"267"	"47"	1.31	25.26	13.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	300	12
+"268"	"47"	1.65	25.26	13.2	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	453	36.24
+"269"	"48"	0.66	36.93	16.5	"Matched unrelated"	"Bone Marrow"	"MAC"	108	6.48
+"270"	"48"	0.81	36.93	16.5	"Matched unrelated"	"Bone Marrow"	"MAC"	95	1.9
+"271"	"48"	0.98	36.93	16.5	"Matched unrelated"	"Bone Marrow"	"MAC"	246	14.76
+"272"	"48"	1.23	36.93	16.5	"Matched unrelated"	"Bone Marrow"	"MAC"	310	15.5
+"273"	"48"	1.75	36.93	16.5	"Matched unrelated"	"Bone Marrow"	"MAC"	274	21.92
+"274"	"49"	0.96	4.2	0.5	"Identical related"	"Bone Marrow"	"MAC"	889	142.24
+"275"	"49"	1.17	4.2	0.5	"Identical related"	"Bone Marrow"	"MAC"	1049	146.86
+"276"	"49"	1.4	4.2	0.5	"Identical related"	"Bone Marrow"	"MAC"	1225	232.75
+"277"	"49"	1.77	4.2	0.5	"Identical related"	"Bone Marrow"	"MAC"	1059	307.11
+"278"	"50"	0.56	10.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	355	3.55
+"279"	"50"	0.74	10.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	469	9.38
+"280"	"50"	0.98	10.23	15.2	"Identical related"	"Bone Marrow"	"MAC"	927	9.27
+"281"	"51"	0.54	7.22	12.6	"Identical related"	"Bone Marrow"	"RIC"	709	7.09
+"282"	"51"	0.63	7.22	12.6	"Identical related"	"Bone Marrow"	"RIC"	459	NA
+"283"	"51"	0.67	7.22	12.6	"Identical related"	"Bone Marrow"	"RIC"	487	14.61
+"284"	"51"	0.75	7.22	12.6	"Identical related"	"Bone Marrow"	"RIC"	388	NA
+"285"	"51"	0.88	7.22	12.6	"Identical related"	"Bone Marrow"	"RIC"	512	10.24
+"286"	"52"	0.88	34.74	13.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	469	28.14
+"287"	"52"	1	34.74	13.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	468	23.4
+"288"	"52"	1.3	34.74	13.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	459	36.72
+"289"	"53"	0.65	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	387	15.48
+"290"	"53"	0.71	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	671	20.13
+"291"	"53"	0.82	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1009	50.45
+"292"	"53"	0.92	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1112	44.48
+"293"	"53"	0.99	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1509	75.45
+"294"	"53"	1.07	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	982	88.38
+"295"	"53"	1.15	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1315	92.05
+"296"	"53"	1.3	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1470	102.9
+"297"	"53"	1.82	56.74	3.4	"Matched unrelated"	"Bone Marrow"	"MAC"	1368	123.12
+"298"	"54"	0.56	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	336	10.08
+"299"	"54"	0.64	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	319	6.38
+"300"	"54"	0.71	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	249	14.94
+"301"	"54"	0.98	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	716	50.12
+"302"	"54"	1.14	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	691	48.37
+"303"	"54"	1.21	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	575	34.5
+"304"	"54"	1.37	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	492	34.44
+"305"	"54"	1.75	12.89	8.5	"Identical related"	"Bone Marrow"	"MAC"	532	37.24
+"307"	"55"	0.51	23.99	10.6	"Identical related"	"Bone Marrow"	"RIC"	134	1.34
+"308"	"55"	0.61	23.99	10.6	"Identical related"	"Bone Marrow"	"RIC"	157	4.71
+"309"	"55"	1.12	23.99	10.6	"Identical related"	"Bone Marrow"	"RIC"	284	14.2
+"310"	"55"	1.42	23.99	10.6	"Identical related"	"Bone Marrow"	"RIC"	169	11.83
+"311"	"56"	1	5.36	2.5	"Identical related"	"Bone Marrow"	"MAC"	1412	56.48
+"312"	"57"	0.54	0	17.3	"Matched unrelated"	"Cord Blood"	"MAC"	702	21.06
+"313"	"57"	0.77	0	17.3	"Matched unrelated"	"Cord Blood"	"MAC"	1199	47.96
+"314"	"57"	0.99	0	17.3	"Matched unrelated"	"Cord Blood"	"MAC"	982	19.64
+"315"	"58"	0.58	6.97	5.4	"Identical related"	"Bone Marrow"	"MAC"	957	47.85
+"316"	"58"	1.31	6.97	5.4	"Identical related"	"Bone Marrow"	"MAC"	906	163.08
+"317"	"58"	1.85	6.97	5.4	"Identical related"	"Bone Marrow"	"MAC"	1034	155.1
+"318"	"59"	0.51	34.76	10.4	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	267	2.67
+"319"	"59"	0.63	34.76	10.4	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	493	14.79
+"320"	"59"	0.71	34.76	10.4	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	418	8.36
+"321"	"59"	1.3	34.76	10.4	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	1023	40.92
+"322"	"60"	0.52	38.06	6.2	"Matched unrelated"	"Bone Marrow"	"MAC"	367	3.67
+"323"	"60"	0.94	38.06	6.2	"Matched unrelated"	"Bone Marrow"	"MAC"	784	70.56
+"325"	"60"	1.48	38.06	6.2	"Matched unrelated"	"Bone Marrow"	"MAC"	579	69.48
+"326"	"61"	1.01	27.52	15.9	"Identical related"	"Bone Marrow"	"MAC"	2161	194.49
+"327"	"62"	0.52	5.6	8.7	"Identical related"	"Bone Marrow"	"MAC"	1341	26.82
+"328"	"62"	0.58	5.6	8.7	"Identical related"	"Bone Marrow"	"MAC"	1779	53.37
+"329"	"62"	0.63	5.6	8.7	"Identical related"	"Bone Marrow"	"MAC"	674	40.44
+"330"	"62"	0.98	5.6	8.7	"Identical related"	"Bone Marrow"	"MAC"	1222	85.54
+"331"	"63"	0.53	28.98	2.6	"Matched unrelated"	"Bone Marrow"	"MAC"	284	11.36
+"332"	"63"	0.81	28.98	2.6	"Matched unrelated"	"Bone Marrow"	"MAC"	300	18
+"333"	"63"	0.95	28.98	2.6	"Matched unrelated"	"Bone Marrow"	"MAC"	278	33.36
+"334"	"63"	1.04	28.98	2.6	"Matched unrelated"	"Bone Marrow"	"MAC"	305	18.3
+"335"	"63"	1.48	28.98	2.6	"Matched unrelated"	"Bone Marrow"	"MAC"	478	76.48
+"336"	"64"	0.56	32.09	12.7	"Matched unrelated"	"Bone Marrow"	"MAC"	291	5.82
+"337"	"64"	0.81	32.09	12.7	"Matched unrelated"	"Bone Marrow"	"MAC"	539	10.78
+"338"	"64"	1.02	32.09	12.7	"Matched unrelated"	"Bone Marrow"	"MAC"	322	16.1
+"339"	"64"	1.98	32.09	12.7	"Matched unrelated"	"Bone Marrow"	"MAC"	533	53.3
+"340"	"65"	0.52	8.14	1.5	"Identical related"	"Bone Marrow"	"MAC"	653	91.42
+"341"	"65"	0.85	8.14	1.5	"Identical related"	"Bone Marrow"	"MAC"	1489	104.23
+"343"	"65"	1.02	8.14	1.5	"Identical related"	"Bone Marrow"	"MAC"	1337	120.33
+"344"	"66"	1.07	27.13	3.1	"Matched unrelated"	"Bone Marrow"	"MAC"	693	48.51
+"345"	"67"	0.89	1.94	4.4	"Identical related"	"Bone Marrow"	"MAC"	1142	57.1
+"346"	"67"	1.02	1.94	4.4	"Identical related"	"Bone Marrow"	"MAC"	959	38.36
+"347"	"67"	1.95	1.94	4.4	"Identical related"	"Bone Marrow"	"MAC"	864	43.2
+"348"	"68"	0.54	34.45	14.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	296	11.84
+"349"	"68"	0.69	34.45	14.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	257	17.99
+"350"	"68"	0.79	34.45	14.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	238	9.52
+"351"	"68"	0.96	34.45	14.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	432	21.6
+"352"	"68"	1.46	34.45	14.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	198	21.78
+"353"	"69"	0.56	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	144	2.88
+"354"	"69"	0.64	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	252	2.52
+"355"	"69"	0.94	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	473	37.84
+"356"	"69"	1.12	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	298	26.82
+"357"	"69"	1.29	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	358	46.54
+"358"	"69"	1.5	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	454	49.94
+"359"	"69"	1.83	39.27	15.1	"Haplo-identical"	"Bone Marrow"	"MAC"	509	61.08
+"360"	"70"	0.52	24.57	16.7	"Identical related"	"Bone Marrow"	"MAC"	48	1.92
+"361"	"70"	0.77	24.57	16.7	"Identical related"	"Bone Marrow"	"MAC"	181	5.43
+"362"	"70"	1.06	24.57	16.7	"Identical related"	"Bone Marrow"	"MAC"	356	10.68
+"363"	"70"	1.23	24.57	16.7	"Identical related"	"Bone Marrow"	"MAC"	90	NA
+"364"	"71"	0.51	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	698	NA
+"365"	"71"	0.61	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	662	59.58
+"366"	"71"	0.7	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	757	NA
+"367"	"71"	0.77	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	1049	NA
+"368"	"71"	0.85	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	1018	NA
+"369"	"71"	0.92	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	837	125.55
+"370"	"71"	1.09	0	4.4	"Matched unrelated"	"Cord Blood"	"RIC"	1007	130.91
+"371"	"72"	0.69	12.83	11.2	"Haplo-identical"	"Bone Marrow"	"MAC"	141	7.05
+"372"	"72"	0.96	12.83	11.2	"Haplo-identical"	"Bone Marrow"	"MAC"	382	15.28
+"373"	"73"	0.54	23.9	5.7	"Matched unrelated"	"Bone Marrow"	"RIC"	27	1.08
+"374"	"73"	0.69	23.9	5.7	"Matched unrelated"	"Bone Marrow"	"RIC"	26	2.86
+"375"	"73"	0.86	23.9	5.7	"Matched unrelated"	"Bone Marrow"	"RIC"	15	NA
+"376"	"73"	1.08	23.9	5.7	"Matched unrelated"	"Bone Marrow"	"RIC"	19	NA
+"377"	"73"	1.34	23.9	5.7	"Matched unrelated"	"Bone Marrow"	"RIC"	125	3.75
+"378"	"74"	0.54	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	277	NA
+"379"	"74"	0.62	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	425	NA
+"380"	"74"	0.81	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	1722	NA
+"381"	"74"	0.88	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	1399	55.96
+"382"	"74"	1	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	1583	63.32
+"383"	"74"	1.2	0	0.7	"Matched unrelated"	"Cord Blood"	"MAC"	1735	104.1
+"384"	"75"	0.56	38.92	3.5	"Matched unrelated"	"Bone Marrow"	"MAC"	470	NA
+"385"	"75"	0.77	38.92	3.5	"Matched unrelated"	"Bone Marrow"	"MAC"	357	42.84
+"386"	"75"	0.95	38.92	3.5	"Matched unrelated"	"Bone Marrow"	"MAC"	423	25.38
+"387"	"75"	1.96	38.92	3.5	"Matched unrelated"	"Bone Marrow"	"MAC"	785	54.95
+"388"	"76"	0.66	2.74	1.2	"Identical related"	"Bone Marrow"	"MAC"	1664	83.2
+"389"	"76"	0.89	2.74	1.2	"Identical related"	"Bone Marrow"	"MAC"	1883	94.15
+"390"	"76"	1.06	2.74	1.2	"Identical related"	"Bone Marrow"	"MAC"	1424	71.2
+"391"	"76"	1.31	2.74	1.2	"Identical related"	"Bone Marrow"	"MAC"	1322	92.54
+"392"	"77"	0.54	25.03	13.9	"Matched unrelated"	"Bone Marrow"	"MAC"	285	11.4
+"393"	"77"	0.67	25.03	13.9	"Matched unrelated"	"Bone Marrow"	"MAC"	288	14.4
+"394"	"77"	0.96	25.03	13.9	"Matched unrelated"	"Bone Marrow"	"MAC"	532	37.24
+"395"	"77"	1.96	25.03	13.9	"Matched unrelated"	"Bone Marrow"	"MAC"	430	43
+"396"	"78"	0.52	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	379	15.16
+"397"	"78"	0.6	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	421	NA
+"398"	"78"	0.73	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	310	43.4
+"399"	"78"	0.83	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	997	79.76
+"400"	"78"	1.08	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	1410	860.1
+"401"	"78"	1.98	3.41	5.6	"Identical related"	"Bone Marrow"	"MAC"	864	NA
+"402"	"79"	0.51	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1060	10.6
+"403"	"79"	0.73	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1303	39.09
+"404"	"79"	0.95	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1482	88.92
+"405"	"79"	1.07	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1863	74.52
+"406"	"79"	1.44	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1699	135.92
+"407"	"79"	1.98	9.64	12.1	"Identical related"	"Bone Marrow"	"RIC"	1774	53.22
+"408"	"80"	0.54	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	192	NA
+"409"	"80"	0.72	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	719	93.47
+"410"	"80"	0.89	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	970	97
+"411"	"80"	0.99	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	759	75.9
+"412"	"80"	1.21	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	876	96.36
+"413"	"80"	1.59	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	738	81.18
+"414"	"80"	1.99	0	1.7	"Matched unrelated"	"Cord Blood"	"MAC"	647	109.99
+"415"	"81"	0.53	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	722	43.32
+"416"	"81"	0.6	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	581	34.86
+"417"	"81"	0.66	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	979	29.37
+"418"	"81"	0.76	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1183	23.66
+"419"	"81"	0.84	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1030	NA
+"420"	"81"	0.93	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	986	29.58
+"421"	"81"	1.03	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1460	43.8
+"422"	"81"	1.12	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1328	53.12
+"423"	"81"	1.3	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1191	35.73
+"426"	"81"	1.62	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1594	47.82
+"428"	"81"	1.76	28.13	0.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	1049	31.47
+"429"	"82"	0.98	18.44	11.1	"Identical related"	"Bone Marrow"	"MAC"	340	20.4
+"430"	"83"	0.65	43.76	15.8	"Matched unrelated"	"Bone Marrow"	"MAC"	129	6.45
+"431"	"83"	0.8	43.76	15.8	"Matched unrelated"	"Bone Marrow"	"MAC"	175	10.5
+"432"	"83"	1	43.76	15.8	"Matched unrelated"	"Bone Marrow"	"MAC"	156	12.48
+"434"	"84"	0.52	31.54	5.7	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	316	12.64
+"435"	"84"	0.61	31.54	5.7	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	471	14.13
+"436"	"84"	0.75	31.54	5.7	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	442	17.68
+"437"	"84"	1.02	31.54	5.7	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	582	46.56
+"438"	"84"	1.27	31.54	5.7	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	800	48
+"439"	"85"	0.51	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	659	65.9
+"440"	"85"	0.61	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	535	NA
+"441"	"85"	0.73	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	258	15.48
+"442"	"85"	0.83	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	350	NA
+"443"	"85"	0.84	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	181	9.05
+"444"	"85"	0.9	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	37	2.96
+"445"	"85"	0.96	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	49	7.35
+"446"	"85"	1.02	32.62	6.6	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	49	4.9
+"447"	"86"	0.54	3.5	4.4	"Identical related"	"Bone Marrow"	"MAC"	616	36.96
+"448"	"86"	0.63	3.5	4.4	"Identical related"	"Bone Marrow"	"MAC"	739	81.29
+"449"	"86"	1.07	3.5	4.4	"Identical related"	"Bone Marrow"	"MAC"	1262	88.34
+"450"	"86"	1.34	3.5	4.4	"Identical related"	"Bone Marrow"	"MAC"	1019	540.07
+"451"	"87"	0.54	29.1	4.4	"Matched unrelated"	"Bone Marrow"	"MAC"	446	44.6
+"452"	"87"	0.96	29.1	4.4	"Matched unrelated"	"Bone Marrow"	"MAC"	919	55.14
+"453"	"88"	0.58	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	159	6.36
+"454"	"88"	0.75	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	494	14.82
+"455"	"88"	0.98	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	382	19.1
+"456"	"88"	1.21	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	520	31.2
+"457"	"88"	1.54	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	367	36.7
+"458"	"88"	1.79	17.63	11.3	"Identical related"	"Bone Marrow"	"MAC"	528	26.4
+"459"	"89"	0.54	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	1580	47.4
+"460"	"89"	0.62	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	1722	103.32
+"461"	"89"	0.7	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	1974	118.44
+"462"	"89"	1.03	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	2388	95.52
+"463"	"89"	1.29	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	1497	NA
+"464"	"89"	1.75	34.19	0.5	"Haplo-identical"	"Bone Marrow"	"MAC"	1464	NA
+"465"	"90"	0.66	28.47	6.2	"Identical related"	"Bone Marrow"	"MAC"	197	19.7
+"466"	"90"	0.82	28.47	6.2	"Identical related"	"Bone Marrow"	"MAC"	420	12.6
+"467"	"90"	0.92	28.47	6.2	"Identical related"	"Bone Marrow"	"MAC"	501	15.03
+"468"	"90"	1.25	28.47	6.2	"Identical related"	"Bone Marrow"	"MAC"	358	NA
+"469"	"90"	1.31	28.47	6.2	"Identical related"	"Bone Marrow"	"MAC"	423	12.69
+"470"	"91"	0.6	2.01	9.3	"Identical related"	"Bone Marrow"	"MAC"	1027	NA
+"471"	"91"	0.74	2.01	9.3	"Identical related"	"Bone Marrow"	"MAC"	1424	56.96
+"472"	"91"	1.04	2.01	9.3	"Identical related"	"Bone Marrow"	"MAC"	1169	70.14
+"473"	"91"	1.65	2.01	9.3	"Identical related"	"Bone Marrow"	"MAC"	1054	NA
+"474"	"91"	1.92	2.01	9.3	"Identical related"	"Bone Marrow"	"MAC"	921	119.73
+"475"	"92"	0.53	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1164	46.56
+"476"	"92"	0.6	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	923	36.92
+"477"	"92"	0.68	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1344	NA
+"478"	"92"	0.87	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1500	NA
+"479"	"92"	0.95	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1049	62.94
+"480"	"92"	1.03	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1288	77.28
+"481"	"92"	1.22	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1505	105.35
+"482"	"92"	1.37	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	1779	142.32
+"483"	"92"	1.58	29.24	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	2292	NA
+"484"	"93"	0.56	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	313	3.13
+"485"	"93"	0.65	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	140	4.2
+"486"	"93"	0.79	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	907	9.07
+"487"	"93"	1.04	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	711	28.44
+"488"	"93"	1.29	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	791	NA
+"489"	"93"	1.88	16.43	14.3	"Identical related"	"Bone Marrow"	"MAC"	997	NA
+"490"	"94"	0.55	38.44	9.9	"Matched unrelated"	"Bone Marrow"	"RIC"	254	NA
+"491"	"94"	0.96	38.44	9.9	"Matched unrelated"	"Bone Marrow"	"RIC"	304	30.4
+"492"	"94"	1.97	38.44	9.9	"Matched unrelated"	"Bone Marrow"	"RIC"	476	NA
+"493"	"95"	0.5	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	2442	NA
+"494"	"95"	0.65	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	2820	56.4
+"495"	"95"	0.83	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	2418	72.54
+"496"	"95"	1.02	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	2598	103.92
+"497"	"95"	1.19	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	2436	48.72
+"498"	"95"	1.9	0	16.8	"Matched unrelated"	"Cord Blood"	"MAC"	1763	123.41
+"500"	"96"	0.71	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	323	9.69
+"501"	"96"	0.9	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	212	NA
+"502"	"96"	0.98	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	252	12.6
+"503"	"96"	1.36	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	135	9.45
+"504"	"96"	1.71	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	432	NA
+"505"	"96"	1.98	33.67	5.2	"Matched unrelated"	"Bone Marrow"	"MAC"	281	33.72
+"506"	"97"	0.56	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	395	NA
+"507"	"97"	0.71	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	307	15.35
+"508"	"97"	0.89	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	388	23.28
+"509"	"97"	1.06	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	175	12.25
+"510"	"97"	1.33	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	510	40.8
+"511"	"97"	1.92	38.46	0.9	"Matched unrelated"	"Bone Marrow"	"MAC"	982	88.38
+"512"	"98"	0.57	23.74	6.9	"Matched unrelated"	"Bone Marrow"	"MAC"	547	38.29
+"513"	"98"	0.92	23.74	6.9	"Matched unrelated"	"Bone Marrow"	"MAC"	542	NA
+"514"	"98"	1.08	23.74	6.9	"Matched unrelated"	"Bone Marrow"	"MAC"	735	29.4
+"515"	"98"	1.99	23.74	6.9	"Matched unrelated"	"Bone Marrow"	"MAC"	886	NA
+"516"	"99"	0.56	8.24	5.7	"Identical related"	"Bone Marrow"	"MAC"	371	NA
+"517"	"99"	1	8.24	5.7	"Identical related"	"Bone Marrow"	"MAC"	1175	82.25
+"518"	"99"	1.58	8.24	5.7	"Identical related"	"Bone Marrow"	"MAC"	1426	99.82
+"519"	"100"	0.99	43.89	7.9	"Matched unrelated"	"Bone Marrow"	"MAC"	472	18.88
+"520"	"100"	2	43.89	7.9	"Matched unrelated"	"Bone Marrow"	"MAC"	663	33.15
+"521"	"101"	0.51	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	159	NA
+"522"	"101"	0.52	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	108	NA
+"523"	"101"	0.56	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	147	10.29
+"524"	"101"	0.66	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	175	NA
+"525"	"101"	0.73	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	119	NA
+"526"	"101"	0.93	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	444	8.88
+"527"	"101"	1.04	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	327	16.35
+"528"	"101"	1.58	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	312	NA
+"529"	"101"	1.83	30.85	4.5	"Matched unrelated"	"Bone Marrow"	"MAC"	588	NA
+"530"	"102"	0.64	32.76	8.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	92	NA
+"531"	"102"	0.86	32.76	8.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	256	30.72
+"532"	"102"	0.97	32.76	8.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	264	29.04
+"533"	"103"	0.67	8.92	6.8	"Identical related"	"Bone Marrow"	"MAC"	1249	NA
+"534"	"103"	1.03	8.92	6.8	"Identical related"	"Bone Marrow"	"MAC"	780	46.8
+"535"	"104"	0.51	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	402	8.04
+"536"	"104"	0.6	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	260	NA
+"537"	"104"	0.64	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	271	10.84
+"538"	"104"	0.75	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	392	NA
+"539"	"104"	0.85	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	629	NA
+"540"	"104"	0.94	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	800	32
+"541"	"104"	1.02	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	763	53.41
+"542"	"104"	1.11	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	812	40.6
+"543"	"104"	1.19	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	789	NA
+"544"	"104"	1.27	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	591	NA
+"545"	"104"	1.44	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	532	26.6
+"546"	"104"	1.52	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	495	NA
+"547"	"104"	1.77	43.46	7.3	"Matched unrelated"	"Peripheral Blood Stem Cells"	"RIC"	513	NA
+"548"	"105"	0.63	24.24	17.7	"Matched unrelated"	"Bone Marrow"	"RIC"	198	11.88
+"549"	"105"	0.82	24.24	17.7	"Matched unrelated"	"Bone Marrow"	"RIC"	124	NA
+"550"	"105"	1.01	24.24	17.7	"Matched unrelated"	"Bone Marrow"	"RIC"	253	10.12
+"551"	"105"	1.26	24.24	17.7	"Matched unrelated"	"Bone Marrow"	"RIC"	183	10.98
+"552"	"106"	0.6	0	5.7	"Identical related"	"Cord Blood"	"RIC"	795	23.85
+"553"	"106"	1.18	0	5.7	"Identical related"	"Cord Blood"	"RIC"	709	42.54
+"554"	"106"	1.7	0	5.7	"Identical related"	"Cord Blood"	"RIC"	408	NA
+"555"	"107"	0.55	39.34	1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	111	NA
+"556"	"107"	0.63	39.34	1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	289	NA
+"557"	"107"	0.75	39.34	1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	599	11.98
+"558"	"107"	1	39.34	1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	290	8.7
+"559"	"107"	1.58	39.34	1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	379	11.37
+"560"	"108"	0.59	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	597	11.94
+"561"	"108"	0.77	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	854	42.7
+"562"	"108"	0.88	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	453	NA
+"563"	"108"	1.05	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	436	13.08
+"564"	"108"	1.47	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	502	NA
+"565"	"108"	2	24.18	7.5	"Matched unrelated"	"Bone Marrow"	"MAC"	575	28.75
+"566"	"109"	0.59	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	342	17.1
+"567"	"109"	0.65	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	456	NA
+"568"	"109"	0.85	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	719	NA
+"569"	"109"	1.2	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	579	34.74
+"570"	"109"	1.49	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	576	74.88
+"571"	"109"	1.74	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	402	36.18
+"572"	"109"	1.99	39.47	0.4	"Matched unrelated"	"Bone Marrow"	"MAC"	557	72.41
+"573"	"110"	0.5	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1305	NA
+"574"	"110"	0.54	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	836	25.08
+"575"	"110"	0.58	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	979	NA
+"576"	"110"	0.63	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	985	19.7
+"577"	"110"	0.74	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1236	NA
+"579"	"110"	0.85	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1646	NA
+"580"	"110"	0.93	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	2511	NA
+"581"	"110"	1.04	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1433	71.65
+"582"	"110"	1.08	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	993	NA
+"583"	"110"	1.14	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1061	NA
+"584"	"110"	1.2	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1697	NA
+"585"	"110"	1.32	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	1528	NA
+"586"	"110"	1.47	0	2.7	"Matched unrelated"	"Cord Blood"	"MAC"	945	NA
+"587"	"111"	0.61	6.62	3.6	"Identical related"	"Bone Marrow"	"MAC"	1239	NA
+"588"	"111"	0.7	6.62	3.6	"Identical related"	"Bone Marrow"	"MAC"	1165	58.25
+"589"	"111"	1.05	6.62	3.6	"Identical related"	"Bone Marrow"	"MAC"	1307	52.28
+"590"	"111"	1.25	6.62	3.6	"Identical related"	"Bone Marrow"	"MAC"	1229	49.16
+"591"	"111"	1.93	6.62	3.6	"Identical related"	"Bone Marrow"	"MAC"	1307	91.49
+"593"	"112"	0.78	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	592	11.84
+"594"	"112"	0.92	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	434	NA
+"595"	"112"	1.03	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	461	13.83
+"596"	"112"	1.2	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	432	NA
+"597"	"112"	1.45	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	630	6.3
+"598"	"112"	1.74	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	440	NA
+"599"	"112"	1.99	46.59	14	"Matched unrelated"	"Bone Marrow"	"RIC"	558	27.9
+"600"	"113"	0.51	41.56	7.2	"Matched unrelated"	"Bone Marrow"	"RIC"	298	NA
+"601"	"113"	0.64	41.56	7.2	"Matched unrelated"	"Bone Marrow"	"RIC"	491	NA
+"602"	"113"	1.06	41.56	7.2	"Matched unrelated"	"Bone Marrow"	"RIC"	646	25.84
+"603"	"114"	0.52	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	989	NA
+"604"	"114"	0.61	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	583	NA
+"605"	"114"	0.71	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	1932	NA
+"606"	"114"	0.92	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	773	38.65
+"607"	"114"	1.07	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	916	45.8
+"608"	"114"	1.52	13.03	7.5	"Haplo-identical"	"Bone Marrow"	"RIC"	941	75.28
+"609"	"115"	0.55	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	413	12.39
+"610"	"115"	0.66	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	515	NA
+"611"	"115"	0.75	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	454	NA
+"612"	"115"	0.97	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	374	22.44
+"613"	"115"	1.06	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	475	NA
+"614"	"115"	1.31	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	489	19.56
+"615"	"115"	1.73	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	804	NA
+"616"	"115"	1.93	26.57	10.9	"Matched unrelated"	"Bone Marrow"	"MAC"	587	23.48
+"617"	"116"	0.54	44.83	5.8	"Matched unrelated"	"Bone Marrow"	"MAC"	64	1.28
+"618"	"116"	0.61	44.83	5.8	"Matched unrelated"	"Bone Marrow"	"MAC"	190	NA
+"619"	"116"	0.83	44.83	5.8	"Matched unrelated"	"Bone Marrow"	"MAC"	201	NA
+"620"	"116"	0.94	44.83	5.8	"Matched unrelated"	"Bone Marrow"	"MAC"	175	7
+"621"	"116"	1.9	44.83	5.8	"Matched unrelated"	"Bone Marrow"	"MAC"	252	27.72
+"622"	"117"	0.53	28.7	7.4	"Matched unrelated"	"Bone Marrow"	"MAC"	296	8.88
+"623"	"117"	0.72	28.7	7.4	"Matched unrelated"	"Bone Marrow"	"MAC"	745	29.8
+"624"	"117"	0.91	28.7	7.4	"Matched unrelated"	"Bone Marrow"	"MAC"	476	28.56
+"625"	"117"	1.07	28.7	7.4	"Matched unrelated"	"Bone Marrow"	"MAC"	715	28.6
+"626"	"118"	0.54	0	5.2	"Identical related"	"Cord Blood"	"MAC"	570	NA
+"627"	"118"	0.66	0	5.2	"Identical related"	"Cord Blood"	"MAC"	801	24.03
+"628"	"118"	0.74	0	5.2	"Identical related"	"Cord Blood"	"MAC"	489	NA
+"629"	"118"	0.83	0	5.2	"Identical related"	"Cord Blood"	"MAC"	608	NA
+"630"	"118"	0.99	0	5.2	"Identical related"	"Cord Blood"	"MAC"	564	39.48
+"631"	"118"	1.62	0	5.2	"Identical related"	"Cord Blood"	"MAC"	677	NA
+"632"	"118"	1.91	0	5.2	"Identical related"	"Cord Blood"	"MAC"	701	70.1
+"633"	"118"	1.98	0	5.2	"Identical related"	"Cord Blood"	"MAC"	404	NA
+"634"	"119"	0.57	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	337	6.74
+"635"	"119"	0.73	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	411	28.77
+"636"	"119"	0.88	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	342	NA
+"637"	"119"	1.03	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	491	19.64
+"638"	"119"	1.34	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	784	54.88
+"639"	"119"	1.76	31.8	3.2	"Matched unrelated"	"Bone Marrow"	"MAC"	580	63.8
+"641"	"120"	0.54	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	119	4.76
+"642"	"120"	0.62	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	165	1.65
+"643"	"120"	0.71	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	180	3.6
+"644"	"120"	0.79	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	190	3.8
+"645"	"120"	0.91	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	218	NA
+"646"	"120"	1.04	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	215	10.75
+"647"	"120"	1.22	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	189	11.34
+"648"	"120"	1.48	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	277	11.08
+"649"	"120"	1.73	26.06	10.6	"Identical related"	"Bone Marrow"	"MAC"	229	NA
+"650"	"121"	0.54	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	167	6.68
+"651"	"121"	0.65	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	288	NA
+"652"	"121"	0.75	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	327	NA
+"653"	"121"	0.84	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	261	NA
+"654"	"121"	0.92	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	282	NA
+"655"	"121"	1.17	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	267	18.69
+"656"	"121"	1.49	26.14	17.6	"Matched unrelated"	"Bone Marrow"	"RIC"	267	NA
+"657"	"122"	0.52	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	1439	57.56
+"658"	"122"	0.69	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	1318	39.54
+"659"	"122"	0.88	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	1633	81.65
+"660"	"122"	1.07	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	1685	101.1
+"661"	"122"	1.19	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	1004	80.32
+"662"	"122"	1.48	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	659	NA
+"663"	"122"	1.9	4.49	9.9	"Identical related"	"Bone Marrow"	"MAC"	824	49.44
+"664"	"123"	0.63	7.58	4.3	"Identical related"	"Bone Marrow"	"RIC"	439	8.78
+"665"	"123"	0.88	7.58	4.3	"Identical related"	"Bone Marrow"	"RIC"	593	23.72
+"666"	"123"	1.23	7.58	4.3	"Identical related"	"Bone Marrow"	"RIC"	588	35.28
+"667"	"123"	1.5	7.58	4.3	"Identical related"	"Bone Marrow"	"RIC"	530	NA
+"668"	"124"	0.84	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	970	87.3
+"669"	"124"	0.98	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	755	67.95
+"670"	"124"	1.07	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	912	NA
+"671"	"124"	1.17	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	722	NA
+"672"	"124"	1.44	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	793	39.65
+"673"	"124"	1.61	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	867	NA
+"675"	"124"	1.95	35.65	14.9	"Matched unrelated"	"Bone Marrow"	"MAC"	627	68.97
+"676"	"125"	0.74	45.48	13.7	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	617	12.34
+"677"	"125"	0.95	45.48	13.7	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	719	14.38
+"678"	"125"	1.18	45.48	13.7	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	656	26.24
+"679"	"125"	1.4	45.48	13.7	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	801	24.03
+"680"	"125"	1.9	45.48	13.7	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	567	22.68
+"681"	"126"	0.84	22.32	16.8	"Identical related"	"Bone Marrow"	"RIC"	175	7
+"682"	"126"	1	22.32	16.8	"Identical related"	"Bone Marrow"	"RIC"	211	10.55
+"683"	"126"	1.52	22.32	16.8	"Identical related"	"Bone Marrow"	"RIC"	249	12.45
+"684"	"127"	0.6	18.03	16.8	"Identical related"	"Bone Marrow"	"MAC"	437	8.74
+"685"	"127"	1.06	18.03	16.8	"Identical related"	"Bone Marrow"	"MAC"	486	29.16
+"686"	"127"	1.8	18.03	16.8	"Identical related"	"Bone Marrow"	"MAC"	680	54.4
+"687"	"128"	0.55	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	134	NA
+"688"	"128"	0.62	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	87	7.83
+"689"	"128"	0.74	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	215	25.8
+"690"	"128"	0.82	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	77	NA
+"691"	"128"	0.88	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	83	NA
+"692"	"128"	0.95	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	87	NA
+"693"	"128"	1.01	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	86	28.38
+"694"	"128"	1.09	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	97	NA
+"695"	"128"	1.21	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	36	NA
+"696"	"128"	1.26	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	62	NA
+"697"	"128"	1.72	23.6	0.2	"Matched unrelated"	"Bone Marrow"	"RIC"	243	72.9
+"698"	"129"	0.53	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	382	NA
+"699"	"129"	0.61	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	566	NA
+"700"	"129"	0.68	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	307	24.56
+"701"	"129"	0.83	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	538	26.9
+"702"	"129"	0.92	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	258	NA
+"703"	"129"	0.99	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	338	23.66
+"704"	"129"	1.05	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	660	NA
+"705"	"129"	1.07	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	704	NA
+"706"	"129"	1.09	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	526	NA
+"707"	"129"	1.1	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	374	NA
+"708"	"129"	1.14	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	571	NA
+"709"	"129"	1.2	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	610	NA
+"710"	"129"	1.26	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	721	14.42
+"711"	"129"	1.32	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	395	NA
+"712"	"129"	1.39	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	319	NA
+"713"	"129"	1.47	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	609	42.63
+"714"	"129"	1.55	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	354	NA
+"715"	"129"	1.62	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	212	NA
+"716"	"129"	1.79	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	492	NA
+"717"	"129"	1.88	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	940	18.8
+"718"	"129"	1.99	35.76	7.7	"Matched unrelated"	"Bone Marrow"	"MAC"	1071	NA
+"719"	"130"	0.51	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	541	NA
+"720"	"130"	0.62	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	465	NA
+"721"	"130"	0.74	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	955	19.1
+"722"	"130"	0.83	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	1248	NA
+"723"	"130"	1	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	1678	16.78
+"724"	"130"	1.29	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	2160	NA
+"725"	"130"	1.39	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	2018	NA
+"726"	"130"	1.49	6.77	2.9	"Identical related"	"Bone Marrow"	"MAC"	1877	NA
+"727"	"131"	0.54	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	45	NA
+"728"	"131"	0.58	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	132	21.12
+"729"	"131"	0.61	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	65	NA
+"730"	"131"	0.65	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	40	NA
+"731"	"131"	0.84	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	17	1.02
+"732"	"131"	0.9	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	23	NA
+"733"	"131"	0.95	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	50	NA
+"734"	"131"	1.07	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	28	5.32
+"735"	"131"	1.15	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	47	NA
+"736"	"131"	1.25	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	157	10.99
+"737"	"131"	1.32	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	138	NA
+"738"	"131"	1.42	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	128	5.12
+"739"	"131"	1.53	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	73	NA
+"740"	"131"	1.63	40.43	16.1	"Matched unrelated"	"Peripheral Blood Stem Cells"	"MAC"	84	5.88
+"741"	"132"	0.51	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	917	27.51
+"742"	"132"	0.61	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	825	NA
+"743"	"132"	0.69	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	1232	49.28
+"744"	"132"	0.78	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	813	NA
+"745"	"132"	1.04	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	1221	48.84
+"746"	"132"	1.53	29.42	15.1	"Matched unrelated"	"Bone Marrow"	"MAC"	1054	NA
+"747"	"133"	0.65	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1327	53.08
+"748"	"133"	0.94	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1181	NA
+"749"	"133"	1.25	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1709	68.36
+"750"	"133"	1.76	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1029	113.19
+"751"	"134"	0.58	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	200	NA
+"752"	"134"	0.66	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	194	NA
+"753"	"134"	0.75	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	105	NA
+"754"	"134"	0.83	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	203	NA
+"755"	"134"	0.98	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	299	5.98
+"756"	"134"	1.24	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	219	NA
+"757"	"134"	1.24	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	229	NA
+"758"	"134"	1.5	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	569	NA
+"759"	"134"	1.81	13.18	8.8	"Identical related"	"Bone Marrow"	"MAC"	329	NA
+"760"	"135"	0.57	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	287	NA
+"761"	"135"	0.67	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	395	15.8
+"762"	"135"	0.75	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	574	NA
+"763"	"135"	0.82	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	447	13.41
+"764"	"135"	0.96	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	548	27.4
+"765"	"135"	1.51	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	737	66.33
+"766"	"135"	1.86	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	588	58.8
+"767"	"135"	1.93	48.92	12.3	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	581	40.67
+"768"	"136"	0.75	12.18	2.3	"Identical related"	"Bone Marrow"	"MAC"	712	28.48
+"769"	"136"	1.06	12.18	2.3	"Identical related"	"Bone Marrow"	"MAC"	683	47.81
+"770"	"136"	1.99	12.18	2.3	"Identical related"	"Bone Marrow"	"MAC"	535	96.3
+"771"	"137"	0.6	45.51	14.5	"Matched unrelated"	"Bone Marrow"	"RIC"	171	NA
+"772"	"137"	0.87	45.51	14.5	"Matched unrelated"	"Bone Marrow"	"RIC"	363	7.26
+"773"	"137"	1.46	45.51	14.5	"Matched unrelated"	"Bone Marrow"	"RIC"	296	11.84
+"774"	"137"	1.96	45.51	14.5	"Matched unrelated"	"Bone Marrow"	"RIC"	375	18.75
+"775"	"138"	0.59	27.23	12.4	"Matched unrelated"	"Bone Marrow"	"MAC"	316	6.32
+"776"	"138"	0.73	27.23	12.4	"Matched unrelated"	"Bone Marrow"	"MAC"	424	NA
+"777"	"138"	1.57	27.23	12.4	"Matched unrelated"	"Bone Marrow"	"MAC"	443	39.87
+"778"	"139"	0.55	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	254	NA
+"779"	"139"	0.6	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	754	52.78
+"780"	"139"	0.71	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	257	NA
+"781"	"139"	0.95	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	608	18.24
+"782"	"139"	1.47	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	557	NA
+"783"	"139"	1.97	25.5	0.8	"Matched unrelated"	"Bone Marrow"	"MAC"	472	56.64
+"784"	"140"	0.54	54.85	2.2	"Matched unrelated"	"Bone Marrow"	"MAC"	233	NA
+"785"	"140"	0.62	54.85	2.2	"Matched unrelated"	"Bone Marrow"	"MAC"	289	NA
+"786"	"140"	1.06	54.85	2.2	"Matched unrelated"	"Bone Marrow"	"MAC"	371	25.97
+"787"	"140"	1.59	54.85	2.2	"Matched unrelated"	"Bone Marrow"	"MAC"	248	NA
+"788"	"141"	0.55	35.56	3.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	707	NA
+"789"	"141"	0.66	35.56	3.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	646	25.84
+"790"	"141"	0.81	35.56	3.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	763	NA
+"791"	"141"	1.07	35.56	3.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	992	109.12
+"792"	"141"	1.93	35.56	3.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"RIC"	564	NA
+"794"	"142"	0.63	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1120	NA
+"795"	"142"	0.71	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1648	32.96
+"796"	"142"	0.92	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1456	NA
+"797"	"142"	1	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1402	NA
+"798"	"142"	1.34	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	1310	NA
+"799"	"142"	1.61	0	0.8	"Matched unrelated"	"Cord Blood"	"RIC"	955	NA
+"800"	"143"	0.65	17.33	15.5	"Identical related"	"Bone Marrow"	"MAC"	787	NA
+"801"	"143"	0.86	17.33	15.5	"Identical related"	"Bone Marrow"	"MAC"	1326	NA
+"802"	"143"	0.96	17.33	15.5	"Identical related"	"Bone Marrow"	"MAC"	948	9.48
+"803"	"143"	1.21	17.33	15.5	"Identical related"	"Bone Marrow"	"MAC"	1076	21.52
+"804"	"144"	0.54	35.79	17.1	"Matched unrelated"	"Bone Marrow"	"MAC"	319	NA
+"805"	"144"	1.08	35.79	17.1	"Matched unrelated"	"Bone Marrow"	"MAC"	600	36
+"806"	"144"	1.37	35.79	17.1	"Matched unrelated"	"Bone Marrow"	"MAC"	404	60.6
+"807"	"145"	0.56	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	546	NA
+"808"	"145"	0.64	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	662	52.96
+"809"	"145"	0.72	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	1013	NA
+"810"	"145"	1	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	916	109.92
+"811"	"145"	1.27	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	764	NA
+"812"	"145"	1.5	8.14	3	"Identical related"	"Bone Marrow"	"MAC"	839	NA
+"813"	"146"	0.54	4.48	1.5	"Identical related"	"Bone Marrow"	"MAC"	395	11.85
+"814"	"146"	0.61	4.48	1.5	"Identical related"	"Bone Marrow"	"MAC"	732	NA
+"815"	"146"	1.07	4.48	1.5	"Identical related"	"Bone Marrow"	"MAC"	1444	NA
+"816"	"146"	1.55	4.48	1.5	"Identical related"	"Bone Marrow"	"MAC"	956	95.6
+"817"	"146"	1.94	4.48	1.5	"Identical related"	"Bone Marrow"	"MAC"	1356	NA
+"818"	"147"	0.55	22.34	17.8	"Matched unrelated"	"Bone Marrow"	"MAC"	465	NA
+"819"	"147"	0.69	22.34	17.8	"Matched unrelated"	"Bone Marrow"	"MAC"	517	NA
+"820"	"147"	0.87	22.34	17.8	"Matched unrelated"	"Bone Marrow"	"MAC"	488	39.04
+"821"	"147"	0.95	22.34	17.8	"Matched unrelated"	"Bone Marrow"	"MAC"	564	33.84
+"822"	"147"	1.55	22.34	17.8	"Matched unrelated"	"Bone Marrow"	"MAC"	741	NA
+"823"	"148"	0.57	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	188	1.88
+"824"	"148"	0.74	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	433	73.61
+"825"	"148"	0.86	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	541	37.87
+"826"	"148"	1.06	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	645	25.8
+"827"	"148"	1.3	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	570	NA
+"828"	"148"	1.72	3.33	10.4	"Identical related"	"Bone Marrow"	"MAC"	560	72.8
+"829"	"149"	0.52	1.75	0.3	"Identical related"	"Bone Marrow"	"RIC"	2682	80.46
+"830"	"149"	0.64	1.75	0.3	"Identical related"	"Bone Marrow"	"RIC"	2460	NA
+"831"	"149"	1.05	1.75	0.3	"Identical related"	"Bone Marrow"	"RIC"	2486	223.74
+"832"	"149"	2	1.75	0.3	"Identical related"	"Bone Marrow"	"RIC"	2364	330.96
+"833"	"150"	0.53	24.59	14.6	"Matched unrelated"	"Bone Marrow"	"MAC"	371	29.68
+"834"	"150"	0.63	24.59	14.6	"Matched unrelated"	"Bone Marrow"	"MAC"	293	2.93
+"835"	"150"	0.8	24.59	14.6	"Matched unrelated"	"Bone Marrow"	"MAC"	390	NA
+"836"	"150"	1.03	24.59	14.6	"Matched unrelated"	"Bone Marrow"	"MAC"	609	12.18
+"837"	"151"	1.19	33.42	8.2	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	623	99.68
+"838"	"151"	1.27	33.42	8.2	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	537	107.4
+"839"	"151"	1.76	33.42	8.2	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	519	88.23
+"840"	"152"	0.55	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	1282	64.1
+"841"	"152"	0.65	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	1328	26.56
+"842"	"152"	0.84	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	824	82.4
+"843"	"152"	0.94	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	1760	NA
+"844"	"152"	1.05	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	1530	NA
+"845"	"152"	1.51	20.18	16.1	"Identical related"	"Bone Marrow"	"MAC"	1013	NA
+"846"	"153"	0.58	15.37	18	"Identical related"	"Bone Marrow"	"MAC"	463	9.26
+"847"	"154"	0.51	18.79	9	"Identical related"	"Bone Marrow"	"MAC"	221	8.84
+"848"	"154"	1.07	18.79	9	"Identical related"	"Bone Marrow"	"MAC"	306	21.42
+"849"	"154"	1.38	18.79	9	"Identical related"	"Bone Marrow"	"MAC"	329	46.06
+"850"	"154"	1.59	18.79	9	"Identical related"	"Bone Marrow"	"MAC"	450	NA
+"851"	"154"	1.84	18.79	9	"Identical related"	"Bone Marrow"	"MAC"	517	87.89
+"852"	"155"	0.53	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	264	NA
+"853"	"155"	0.65	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	308	12.32
+"854"	"155"	0.76	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	366	14.64
+"855"	"155"	1.11	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	394	27.58
+"856"	"155"	1.38	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	376	NA
+"857"	"155"	1.59	20.64	12.9	"Matched unrelated"	"Bone Marrow"	"RIC"	476	NA
+"858"	"156"	0.56	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	48	NA
+"859"	"156"	0.63	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	58	NA
+"860"	"156"	0.73	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	87	1.74
+"861"	"156"	0.84	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	105	NA
+"862"	"156"	0.92	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	112	NA
+"863"	"156"	1	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	180	10.8
+"864"	"156"	1.07	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	160	NA
+"865"	"156"	1.32	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	147	NA
+"866"	"156"	1.5	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	131	NA
+"867"	"156"	1.69	17.95	15.9	"Identical related"	"Bone Marrow"	"RIC"	148	NA
+"868"	"157"	1.09	12.94	11.3	"Identical related"	"Bone Marrow"	"RIC"	301	9.03
+"869"	"158"	0.56	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	378	NA
+"870"	"158"	0.64	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	473	NA
+"871"	"158"	0.72	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	539	NA
+"872"	"158"	0.81	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	965	38.6
+"873"	"158"	1.05	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	1129	56.45
+"874"	"158"	1.31	5.38	11.3	"Identical related"	"Bone Marrow"	"MAC"	1242	NA
+"875"	"159"	0.55	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	810	NA
+"876"	"159"	0.57	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	1302	NA
+"877"	"159"	0.59	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	864	NA
+"878"	"159"	0.65	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	648	12.96
+"879"	"159"	0.73	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	592	35.52
+"880"	"159"	0.8	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	503	25.15
+"881"	"159"	0.84	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	841	NA
+"882"	"159"	0.88	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	723	NA
+"883"	"159"	1.14	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	741	44.46
+"884"	"159"	1.59	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	410	24.6
+"886"	"159"	1.97	25.42	14	"Matched unrelated"	"Bone Marrow"	"MAC"	322	16.744
+"887"	"160"	0.63	33.15	10.6	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	868	NA
+"888"	"160"	0.8	33.15	10.6	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	679	NA
+"889"	"160"	1.05	33.15	10.6	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	724	NA
+"890"	"160"	1.43	33.15	10.6	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	1003	NA
+"891"	"160"	1.97	33.15	10.6	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	1024	NA
+"893"	"161"	0.63	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	496	4.96
+"894"	"161"	0.75	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	718	NA
+"895"	"161"	1.07	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	359	14.36
+"896"	"161"	1.41	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	384	15.36
+"897"	"161"	1.68	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	514	NA
+"900"	"161"	1.97	45.18	15.7	"Matched unrelated"	"Bone Marrow"	"MAC"	458	24.732
+"901"	"162"	0.8	34.56	2.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	338	NA
+"902"	"162"	0.97	34.56	2.1	"Haplo-identical"	"Peripheral Blood Stem Cells"	"MAC"	336	NA
+"903"	"163"	0.56	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	18	7.56
+"904"	"163"	0.64	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	18	NA
+"905"	"163"	0.75	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	21	3.78
+"906"	"163"	0.85	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	38	5.7
+"907"	"163"	0.9	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	31	NA
+"908"	"163"	1	18.65	17	"Identical related"	"Bone Marrow"	"MAC"	85	NA
+"909"	"164"	0.56	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	343	10.29
+"910"	"164"	0.83	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	566	NA
+"911"	"164"	0.94	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	1139	68.34
+"913"	"164"	1.06	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	406	41.818
+"915"	"164"	1.11	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	479	NA
+"917"	"164"	1.57	22.39	4.3	"Matched unrelated"	"Bone Marrow"	"MAC"	1482	158.574
+"918"	"165"	0.64	0	4.6	"Matched unrelated"	"Cord Blood"	"MAC"	578	NA
+"919"	"165"	0.84	0	4.6	"Matched unrelated"	"Cord Blood"	"MAC"	1488	NA
+"920"	"165"	1.03	0	4.6	"Matched unrelated"	"Cord Blood"	"MAC"	1012	50.6
+"921"	"165"	1.26	0	4.6	"Matched unrelated"	"Cord Blood"	"MAC"	1080	NA
+"923"	"165"	1.53	0	4.6	"Matched unrelated"	"Cord Blood"	"MAC"	716	NA
+"925"	"166"	0.63	0	4.8	"Matched unrelated"	"Cord Blood"	"MAC"	2270	NA
+"926"	"166"	0.75	0	4.8	"Matched unrelated"	"Cord Blood"	"MAC"	2857	57.14
+"927"	"166"	1.06	0	4.8	"Matched unrelated"	"Cord Blood"	"MAC"	1494	74.7
+"930"	"166"	1.52	0	4.8	"Matched unrelated"	"Cord Blood"	"MAC"	2213	NA
+"932"	"167"	0.54	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	461	NA
+"933"	"167"	0.65	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	806	48.36
+"934"	"167"	0.73	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	791	NA
+"935"	"167"	1.02	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	891	53.46
+"937"	"167"	1.3	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	527	NA
+"938"	"167"	1.53	6.57	8.6	"Identical related"	"Bone Marrow"	"MAC"	1739	189.551
+"940"	"168"	0.87	7.6	4	"Identical related"	"Bone Marrow"	"MAC"	1402	NA
+"941"	"169"	0.57	40.65	2.4	"Haplo-identical"	"Bone Marrow"	"MAC"	120	2.4
+"942"	"169"	0.81	40.65	2.4	"Haplo-identical"	"Bone Marrow"	"MAC"	502	30.12
+"946"	"169"	1.61	40.65	2.4	"Haplo-identical"	"Bone Marrow"	"MAC"	733	70.368
+"948"	"169"	1.99	40.65	2.4	"Haplo-identical"	"Bone Marrow"	"MAC"	673	NA
+"949"	"170"	0.52	18.44	16.5	"Haplo-identical"	"Bone Marrow"	"RIC"	402	NA
+"950"	"170"	0.61	18.44	16.5	"Haplo-identical"	"Bone Marrow"	"RIC"	568	5.68
+"951"	"171"	0.71	40.82	1.6	"Matched unrelated"	"Bone Marrow"	"MAC"	480	NA
+"952"	"171"	0.86	40.82	1.6	"Matched unrelated"	"Bone Marrow"	"MAC"	494	NA
+"953"	"171"	1.02	40.82	1.6	"Matched unrelated"	"Bone Marrow"	"MAC"	706	38.124
+"955"	"171"	1.21	40.82	1.6	"Matched unrelated"	"Bone Marrow"	"MAC"	582	NA
+"961"	"171"	1.42	40.82	1.6	"Matched unrelated"	"Bone Marrow"	"MAC"	833	69.972
+"963"	"172"	0.51	26.56	16	"Matched unrelated"	"Bone Marrow"	"RIC"	179	NA
+"964"	"172"	0.94	26.56	16	"Matched unrelated"	"Bone Marrow"	"RIC"	531	NA
+"965"	"172"	1.25	26.56	16	"Matched unrelated"	"Bone Marrow"	"RIC"	603	7.236
+"968"	"172"	1.5	26.56	16	"Matched unrelated"	"Bone Marrow"	"RIC"	430	NA
+"969"	"173"	0.74	0	17.4	"Matched unrelated"	"Cord Blood"	"MAC"	1516	15.16
+"970"	"173"	1.03	0	17.4	"Matched unrelated"	"Cord Blood"	"MAC"	3043	NA
+"971"	"173"	1.59	0	17.4	"Matched unrelated"	"Cord Blood"	"MAC"	1546	NA
+"973"	"173"	1.78	0	17.4	"Matched unrelated"	"Cord Blood"	"MAC"	1561	59.318
+"974"	"174"	0.52	30.29	17.4	"Matched unrelated"	"Bone Marrow"	"RIC"	124	NA
+"975"	"174"	0.59	30.29	17.4	"Matched unrelated"	"Bone Marrow"	"RIC"	234	NA
+"976"	"174"	0.8	30.29	17.4	"Matched unrelated"	"Bone Marrow"	"RIC"	58	2.9
+"977"	"174"	0.94	30.29	17.4	"Matched unrelated"	"Bone Marrow"	"RIC"	122	4.88
+"981"	"175"	0.96	0	8.9	"Matched unrelated"	"Cord Blood"	"MAC"	3046	134.024
+"982"	"175"	1.19	0	8.9	"Matched unrelated"	"Cord Blood"	"MAC"	1558	NA
+"984"	"176"	0.56	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	156	NA
+"985"	"176"	0.58	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	72	0.72
+"986"	"176"	0.68	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	140	NA
+"987"	"176"	0.71	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	113	NA
+"988"	"176"	0.77	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	62	NA
+"989"	"176"	0.85	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	57	NA
+"992"	"176"	0.96	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	63	NA
+"995"	"176"	1.67	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	367	9.175
+"997"	"176"	1.96	38.71	6.4	"Haplo-identical"	"Bone Marrow"	"RIC"	556	NA
